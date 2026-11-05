@@ -1,0 +1,12 @@
+// Un utilisateur peut accéder à un service s'il a au moins 18 ans et s'il possède une carte.
+
+// Complète la logique pour age = 20 et possedeCarte = false.
+
+// Quel message sera affiché ? Explique pourquoi.
+
+
+public class OperateurLogique{
+    public static void main(String[] args) {
+
+    }
+}
